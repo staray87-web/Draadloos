@@ -1,1 +1,13 @@
-# Draadloos
+# DraadloosFrequencyRanges="FrequencyRange51,FrequencyRange80,FrequencyRange52,FrequencyRange126" UniqueID="EM 9046"/>
+        <Receiver FrequencyRanges="FrequencyRange89" UniqueID="EM 6000"/>
+        <Receiver FrequencyRanges="FrequencyRange89" UniqueID="EM 6000 (RF mode: LD)"/>
+        <Receiver FrequencyRanges="FrequencyRange106,FrequencyRange107,FrequencyRange108,FrequencyRange111,FrequencyRange112,FrequencyRange114,FrequencyRange115,FrequencyRange113,FrequencyRange118" UniqueID="EW-DX EM2/EM4 (LD off)"/>
+        <Receiver FrequencyRanges="FrequencyRange106,FrequencyRange107,FrequencyRange108,FrequencyRange111,FrequencyRange112,FrequencyRange114,FrequencyRange115,FrequencyRange113,FrequencyRange118" UniqueID="EW-DX EM2/EM4 (LD on)"/>
+        <Receiver FrequencyRanges="FrequencyRange34,FrequencyRange35,FrequencyRange36,FrequencyRange37,FrequencyRange38,FrequencyRange39,FrequencyRange40,FrequencyRange41,FrequencyRange42,FrequencyRange43,FrequencyRange46,FrequencyRange44,FrequencyRange47" UniqueID="EM 3731/3732"/>
+        <Receiver FrequencyRanges="FrequencyRange26,FrequencyRange94,FrequencyRange29,FrequencyRange30,FrequencyRange31,FrequencyRange28,FrequencyRange27,FrequencyRange95,FrequencyRange49,FrequencyRange50,FrequencyRange92" UniqueID="EM 2000/2050"/>
+        <Receiver FrequencyRanges="FrequencyRange26,FrequencyRange94,FrequencyRange29,FrequencyRange30,FrequencyRange31,FrequencyRange28,FrequencyRange27,FrequencyRange95,FrequencyRange33,FrequencyRange50,FrequencyRange92" UniqueID="EK 2000-IEM"/>
+        <Receiver FrequencyRanges="FrequencyRange97,FrequencyRange94,FrequencyRange29,FrequencyRange30,FrequencyRange105,FrequencyRange31,FrequencyRange28,FrequencyRange27,FrequencyRange95,FrequencyRange93,FrequencyRange92" UniqueID="EM 300-500 G4"/>
+        <Receiver FrequencyRanges="FrequencyRange19,FrequencyRange96,FrequencyRange97,FrequencyRange22,FrequencyRange23,FrequencyRange104,FrequencyRange24,FrequencyRange25,FrequencyRange20,FrequencyRange21" UniqueID="EK IEM G4"/>
+        <Receiver FrequencyRanges="FrequencyRange19,FrequencyRange90,FrequencyRange22,FrequencyRange23,FrequencyRange24,FrequencyRange25,FrequencyRange20,FrequencyRange21,FrequencyRange49,FrequencyRange50,FrequencyRange92" UniqueID="EM 500 G3"/>
+        <Receiver FrequencyRanges="FrequencyRange19,FrequencyRange91,FrequencyRange22,FrequencyRange23,FrequencyRange24,FrequencyRange25,FrequencyRange20,FrequencyRange21,FrequencyRange49,FrequencyRange50,FrequencyRange92" UniqueID="EM 300 G3"/>
+        <Receiver FrequencyRanges="FrequencyRange19,FrequencyRange22,FrequencyRange23,FrequencyRange24,FrequencyRange25,FrequencyRan
